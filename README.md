@@ -108,34 +108,6 @@ Responsive one-page portfolio with semantic HTML, optimized images, and interact
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=transparent&hide_border=true" 
-  alt="GitHub Stats" 
-  height="165"
-/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=Suianina&theme=transparent&hide_border=true" 
-  alt="GitHub Streak" 
-  height="165"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&theme=transparent&hide_border=true" 
-  alt="Top Languages" 
-  height="165"
-/>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Suianina&theme=github-light&hide_border=true" 
-  alt="Activity Graph" 
-  width="100%"
-/>
-
 </div>
 
 ---
