@@ -105,6 +105,12 @@ Responsive one-page portfolio with semantic HTML, optimized images, and interact
 
 ---
 
+## ⭐ GitHub Stats (optional)
+
+![Zhanna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true)
+
+---
 </div>
 
 ---
