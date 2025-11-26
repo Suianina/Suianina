@@ -6,9 +6,6 @@
 Crafting responsive, accessible and high-quality web applications  
 with clean architecture and a user-first mindset.
 
-🌍 Kryvyi Rih, Ukraine  
-📧 **zhannasuianina@gmail.com**
-
 </div>
 
 ---
