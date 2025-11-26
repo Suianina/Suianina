@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm <strong>Zhanna Suianina</strong>  
+# 👋 Hi, I'm <strong>Zhanna</strong>  
 ### 💜 Front-End Developer
 
 Crafting responsive, accessible and high-quality web applications  
