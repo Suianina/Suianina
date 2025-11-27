@@ -4,7 +4,7 @@
 
 # Hey there, I'm <strong>Zhanna!</strong> 👋
 
-Crafting responsive, accessible and high-quality web applications  
+Crafting responsive, accessible, and high-quality web applications  
 with clean architecture and a user-first mindset.
 
 </div>
@@ -17,7 +17,7 @@ with clean architecture and a user-first mindset.
 - Focused on **clean code**, **scalability**, and modern best practices  
 - Experienced with both **frontend** and **backend**  
 - Constant learner: improving TypeScript, testing & advanced React  
-- I enjoy building interfaces that feel intuitive, smooth and meaningful
+- I enjoy building interfaces that feel intuitive, smooth, and meaningful
 
 ---
 
