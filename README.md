@@ -1,5 +1,7 @@
 <div align="center">
 
+![GitHub Animated](assets/github.gif)
+
 # 👋 Hi, I'm <strong>Zhanna!</strong>  
 ### Front-End Developer
 
@@ -19,7 +21,6 @@ with clean architecture and a user-first mindset.
 - I enjoy building interfaces that feel intuitive, smooth and meaningful
 
 ---
-
 
 ## My Stack and Tools
 <div align="center">
@@ -74,8 +75,9 @@ with clean architecture and a user-first mindset.
 ## Featured Projects
 
 ### **Movie Search**
-🔗 Live: https://goit-react-hw-05-rho-one-90.vercel.app  
-🔗 Code: https://github.com/Suianina/goit-react-hw-05  
+![Movie Search Screenshot](screenshots/movie-search.png)
+🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
+🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
 
 Single-page movie search application using the TMDB API.  
 Features dynamic routing, lazy loading, cast & reviews pages, asynchronous requests, responsive interface, and polished UX.  
@@ -84,10 +86,22 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 
 ---
 
+### **Traveltrucks Camper Rental**
+![Traveltrucks Screenshot](screenshots/traveltrucks.png)
+🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
+🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
+
+Camper rental platform with advanced filtering, favorite system, and modern responsive design.  
+**Tech:** React.js, React Router, Styled Components, REST API, Vercel  
+**Role:** Front-End Developer  
+
+---
+
 ### **HarmonyQ — Mental Well-being Social Network**  
-🔗 Frontend: https://mindflow-frontend.vercel.app/  
-🔗 Backend: https://github.com/Suianina/mindflow-backend  
-🔗 Frontend Code: https://github.com/Suianina/mindflow-frontend  
+![HarmonyQ Screenshot](screenshots/harmonyq.png)
+🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
+🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
+🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
 
 A full-stack social network for mental well-being with authentication, content creation, photo uploads, and responsive design.  
 **Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, REST API  
@@ -95,6 +109,15 @@ A full-stack social network for mental well-being with authentication, content c
 Backend: auth & Swagger docs  
 Frontend: RegisterPage & RegisterForm  
 
+---
+
+## Certifications
+
+### FullStack Developer Certificate
+**GoIT School** • 07/08/2025
+
+![FullStack Developer Certificate](screenshots/certificate.png)
+[View Certificate](https://drive.google.com/file/d/1fWSUTchdHMetLdaewMUyK2caAvG9cXBR/view?usp=sharing)
 
 ---
 
@@ -113,19 +136,16 @@ Frontend: RegisterPage & RegisterForm
 
 ---
 
-## GitHub Stats (optional)
+## GitHub Stats
 
-![Zhanna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
+![Zhanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true)
-
----
-</div>
 
 ---
 
 <div align="center">
 
-*Thank you for visiting my profile!*  
-Let’s build something meaningful together.
+Thank you for visiting my profile!  
+Let's build something meaningful together.
 
 </div>
