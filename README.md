@@ -25,92 +25,50 @@ with clean architecture and a user-first mindset.
 
 <table>
   <tr>
-    <td><img src="SVG/HTML5.svg" width="50"/><br>HTML5</td>
-    <td><img src="SVG/CSS3.svg" width="50"/><br>CSS3</td>
-    <td><img src="SVG/SASS.svg" width="50"/><br>SASS</td>
-    <td><img src="SVG/JavaScript.svg" width="50"/><br>JavaScript</td>
-    <td><img src="SVG/TypeScript.svg" width="50"/><br>TypeScript</td>
+    <td align="center">
+      <img src="SVG/01-html5.svg" width="50" alt="HTML5"/><br>
+      HTML5
+    </td>
+    <td align="center">
+      <img src="SVG/02-css3.svg" width="50" alt="CSS3"/><br>
+      CSS3
+    </td>
+    <td align="center">
+      <img src="SVG/03-javascript.svg" width="50" alt="JavaScript"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="SVG/04-typescript.svg" width="50" alt="TypeScript"/><br>
+      TypeScript
+    </td>
   </tr>
   <tr>
-    <td><img src="SVG/React.svg" width="50"/><br>React.js</td>
-    <td><img src="SVG/Redux.svg" width="50"/><br>Redux Toolkit</td>
-    <td><img src="SVG/Router.svg" width="50"/><br>React Router</td>
-    <td><img src="SVG/Axios.svg" width="50"/><br>Axios</td>
-    <td><img src="SVG/Formik.svg" width="50"/><br>Formik + Yup</td>
+    <td align="center">
+      <img src="SVG/06-react.svg" width="50" alt="React"/><br>
+      React.js
+    </td>
+    <td align="center">
+      <img src="SVG/08-nodejs.svg" width="50" alt="Node.js"/><br>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="SVG/13-redux.svg" width="50" alt="Redux"/><br>
+      Redux
+    </td>
+    <td align="center">
+      <img src="SVG/15-postman.svg" width="50" alt="Postman"/><br>
+      Postman
+    </td>
   </tr>
   <tr>
-    <td><img src="SVG/CSSModules.svg" width="50"/><br>CSS Modules</td>
-    <td><img src="SVG/NodeJS.svg" width="50"/><br>Node.js</td>
-    <td><img src="SVG/Express.svg" width="50"/><br>Express</td>
-    <td><img src="SVG/MongoDB.svg" width="50"/><br>MongoDB</td>
-    <td><img src="SVG/REST.svg" width="50"/><br>REST API</td>
-  </tr>
-  <tr>
-    <td><img src="SVG/Swagger.svg" width="50"/><br>Swagger</td>
-    <td><img src="SVG/Git.svg" width="50"/><br>Git</td>
-    <td><img src="SVG/GitHub.svg" width="50"/><br>GitHub</td>
-    <td><img src="SVG/Vite.svg" width="50"/><br>Vite</td>
-    <td><img src="SVG/Webpack.svg" width="50"/><br>Webpack</td>
-  </tr>
-  <tr>
-    <td><img src="SVG/Agile.svg" width="50"/><br>Agile</td>
-    <td><img src="SVG/Scrum.svg" width="50"/><br>Scrum</td>
+    <td align="center">
+      <img src="SVG/16-mongodb.svg" width="50" alt="MongoDB"/><br>
+      MongoDB
+    </td>
   </tr>
 </table>
 
 </div>
-
-## 🧰 Tech Stack
-
-**Frontend:**  
-HTML5 • CSS3 • SASS • JavaScript (ES6+) • TypeScript • React.js • Redux Toolkit • React Router DOM • Axios • Formik + Yup • CSS Modules
-## 🎨 Frontend
-
-<table>
-  <tr>
-    <td><img src="SVG/HTML5.svg" width="50"/><br>HTML5</td>
-    <td><img src="SVG/CSS3.svg" width="50"/><br>CSS3</td>
-    <td><img src="SVG/SASS.svg" width="50"/><br>SASS</td>
-    <td><img src="SVG/JavaScript.svg" width="50"/><br>JavaScript</td>
-    <td><img src="SVG/TypeScript.svg" width="50"/><br>TypeScript</td>
-  </tr>
-  <tr>
-    <td><img src="SVG/React.svg" width="50"/><br>React.js</td>
-    <td><img src="SVG/Redux.svg" width="50"/><br>Redux Toolkit</td>
-    <td><img src="SVG/Router.svg" width="50"/><br>React Router</td>
-    <td><img src="SVG/Axios.svg" width="50"/><br>Axios</td>
-    <td><img src="SVG/Formik.svg" width="50"/><br>Formik + Yup</td>
-  </tr>
-  <tr>
-    <td><img src="SVG/CSSModules.svg" width="50"/><br>CSS Modules</td>
-  </tr>
-</table>
-
-**Backend:**  
-Node.js • Express • MongoDB • REST API • Swagger 
-<table>
-  <tr>
-    <td><img src="SVG/NodeJS.svg" width="50"/><br>Node.js</td>
-    <td><img src="SVG/Express.svg" width="50"/><br>Express</td>
-    <td><img src="SVG/MongoDB.svg" width="50"/><br>MongoDB</td>
-    <td><img src="SVG/REST.svg" width="50"/><br>REST API</td>
-    <td><img src="SVG/Swagger.svg" width="50"/><br>Swagger</td>
-  </tr>
-</table>
-
-**Tools & Practices:**  
-Git • GitHub • Vite • Webpack • Agile • Scrum  
-<table>
-  <tr>
-    <td><img src="SVG/Git.svg" width="50"/><br>Git</td>
-    <td><img src="SVG/GitHub.svg" width="50"/><br>GitHub</td>
-    <td><img src="SVG/Vite.svg" width="50"/><br>Vite</td>
-    <td><img src="SVG/Webpack.svg" width="50"/><br>Webpack</td>
-    <td><img src="SVG/Agile.svg" width="50"/><br>Agile</td>
-    <td><img src="SVG/Scrum.svg" width="50"/><br>Scrum</td>
-  </tr>
-</table>
-
 ---
 
 ## 💻 Featured Projects
@@ -126,26 +84,6 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 
 ---
 
-### 📇 **Contact Book**  
-🔗 Live: https://goit-react-hw-08-teal-alpha.vercel.app/  
-🔗 Code: https://github.com/Suianina/goit-react-hw-08  
-
-Contact management app with authentication, protected routes, filtering, and user-friendly forms.  
-**Tech:** React.js, Redux, React Router, Formik, CSS3  
-**Role:** Developer  
-
----
-
-### 🖼️ **Image Search App**  
-🔗 Live: https://goit-typescript-hw-02-ruby-one.vercel.app/  
-🔗 Code: https://github.com/Suianina/goit-typescript-hw-02  
-
-Image search app using the Unsplash API with infinite scroll, modals, notifications and smooth interactions.  
-**Tech:** React.js, TypeScript, Axios, CSS3, React Modal, React Hot Toast  
-**Role:** Developer  
-
----
-
 ### 🌿 **HarmonyQ — Mental Well-being Social Network**  
 🔗 Frontend: https://mindflow-frontend.vercel.app/  
 🔗 Backend: https://github.com/Suianina/mindflow-backend  
@@ -157,15 +95,6 @@ A full-stack social network for mental well-being with authentication, content c
 Backend: auth & Swagger docs  
 Frontend: RegisterPage & RegisterForm  
 
----
-
-### 🎨 **Team Portfolio Website**  
-🔗 Live: https://suianina.github.io/dom-inator_009/  
-🔗 Code: https://github.com/Suianina/dom-inator_009  
-
-Responsive one-page portfolio with semantic HTML, optimized images, and interactive UI.  
-**Tech:** HTML5, CSS3, JavaScript, Swiper.js  
-**Role:** Scrum Master & Developer  
 
 ---
 
