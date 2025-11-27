@@ -75,13 +75,11 @@ with clean architecture and a user-first mindset.
 
 ### **Movie Search**
 <div align="center" style="margin: 20px 0;">
-<img src="screenshots/movie search-1.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
-<img src="screenshots/movie search-2.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/movie search-1.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
+<img src="screenshots/movie search-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6;">
-
-  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
 🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
 🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
 
@@ -95,13 +93,11 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 
 ### **Traveltrucks Camper Rental**
 <div align="center" style="margin: 20px 0;">
-<img src="screenshots/traveltrucks camper rental-1.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
-<img src="screenshots/traveltrucks camper rental-2.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/traveltrucks camper rental-1.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
+<img src="screenshots/traveltrucks camper rental-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6;">
-
-  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
 🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
 🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
 
@@ -114,13 +110,11 @@ Camper rental platform with advanced filtering, favorite system, and modern resp
 
 ### **HarmonyQ — Mental Well-being Social Network**
 <div align="center" style="margin: 20px 0;">
-<img src="screenshots/harmonyq-1.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
-<img src="screenshots/harmonyq-2.png" width="45%" style="height: 200px; object-fit: cover; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/harmonyq-1.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
+<img src="screenshots/harmonyq-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6;">
-
-  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
 🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
 🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
 🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
@@ -131,7 +125,6 @@ A full-stack social network for mental well-being with authentication, content c
 Backend: auth & Swagger docs  
 Frontend: RegisterPage & RegisterForm  
 </div>
-
 ---
 
 ## Certifications
@@ -169,9 +162,8 @@ Frontend: RegisterPage & RegisterForm
 
 ## GitHub Stats
 
-![Zhanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true)
-
+![Zhanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=red&hide_border=true&icon_color=red&text_color=333&title_color=red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true&theme=red&title_color=red)
 ---
 
 <div align="center">
