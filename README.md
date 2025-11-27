@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github.gif" width="100">
+<img src="assets/github.gif" width="80">
 
 # Hey there, I'm <strong>Zhanna!</strong> 👋
 
@@ -76,11 +76,12 @@ with clean architecture and a user-first mindset.
 ## Featured Projects
 
 ### **Movie Search**
-<div align="center">
-<img src="screenshots/movie search-1.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
-<img src="screenshots/movie search-2.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
+<div align="center" style="margin: 20px 0;">
+<img src="screenshots/movie search-1.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/movie search-2.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
+<div style="font-size: 16px; line-height: 1.6;">
 🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
 🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
 
@@ -88,30 +89,34 @@ Single-page movie search application using the TMDB API.
 Features dynamic routing, lazy loading, cast & reviews pages, asynchronous requests, responsive interface, and polished UX.  
 **Tech:** React.js, JavaScript, Axios, React Router, REST API, HTML5, CSS3, Vercel  
 **Role:** Developer  
+</div>
 
 ---
 
 ### **Traveltrucks Camper Rental**
-<div align="center">
-<img src="screenshots/traveltrucks camper rental-1.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
-<img src="screenshots/traveltrucks camper rental-2.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
+<div align="center" style="margin: 20px 0;">
+<img src="screenshots/traveltrucks camper rental-1.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/traveltrucks camper rental-2.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
+<div style="font-size: 16px; line-height: 1.6;">
 🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
 🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
 
 Camper rental platform with advanced filtering, favorite system, and modern responsive design.  
 **Tech:** React.js, React Router, Styled Components, REST API, Vercel  
 **Role:** Front-End Developer  
+</div>
 
 ---
 
 ### **HarmonyQ — Mental Well-being Social Network**
-<div align="center">
-<img src="screenshots/harmonyq-1.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
-<img src="screenshots/harmonyq-2.png" width="45%" height="250" style="object-fit: cover; margin: 0 10px;">
+<div align="center" style="margin: 20px 0;">
+<img src="screenshots/harmonyq-1.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/harmonyq-2.png" width="45%" style="height: 300px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
+<div style="font-size: 16px; line-height: 1.6;">
 🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
 🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
 🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
@@ -121,6 +126,7 @@ A full-stack social network for mental well-being with authentication, content c
 **Role:** Full-Stack Developer  
 Backend: auth & Swagger docs  
 Frontend: RegisterPage & RegisterForm  
+</div>
 
 ---
 
@@ -129,13 +135,15 @@ Frontend: RegisterPage & RegisterForm
 ### FullStack Developer Certificate
 **GoIT School** • 07/08/2025
 
-<div align="center">
-<img src="screenshots/screenshotscertificate-1.png" width="30%" height="200" style="object-fit: cover; margin: 0 5px;">
-<img src="screenshots/screenshotscertificate-2.png" width="30%" height="200" style="object-fit: cover; margin: 0 5px;">
-<img src="screenshots/screenshotscertificate-3.png" width="30%" height="200" style="object-fit: cover; margin: 0 5px;">
+<div align="center" style="margin: 20px 0;">
+<img src="screenshots/screenshotscertificate-1.png" width="30%" style="height: 250px; object-fit: contain; margin: 0 5px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/screenshotscertificate-2.png" width="30%" style="height: 250px; object-fit: contain; margin: 0 5px; border: 1px solid #ddd; border-radius: 8px;">
+<img src="screenshots/screenshotscertificate-3.png" width="30%" style="height: 250px; object-fit: contain; margin: 0 5px; border: 1px solid #ddd; border-radius: 8px;">
 </div>
 
+<div style="font-size: 16px; line-height: 1.6;">
 [View Certificate](https://drive.google.com/file/d/1fWSUTchdHMetLdaewMUyK2caAvG9cXBR/view?usp=sharing)
+</div>
 
 ---
 
