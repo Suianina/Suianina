@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github.gif" width="80">
+<img src="assets/github.gif" width="70">
 
 # Hey there, I'm <strong>Zhanna!</strong> 👋
 
@@ -79,14 +79,14 @@ with clean architecture and a user-first mindset.
 <img src="screenshots/movie search-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
-🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
-🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 40px;">
+🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app<br>
+🔗 **Code**: https://github.com/Suianina/goit-react-hw-05<br><br>
 
-Single-page movie search application using the TMDB API.  
-Features dynamic routing, lazy loading, cast & reviews pages, asynchronous requests, responsive interface, and polished UX.  
-**Tech:** React.js, JavaScript, Axios, React Router, REST API, HTML5, CSS3, Vercel  
-**Role:** Developer  
+Single-page movie search application using the TMDB API.<br>
+Features dynamic routing, lazy loading, cast & reviews pages, asynchronous requests, responsive interface, and polished UX.<br>
+**Tech:** React.js, JavaScript, Axios, React Router, REST API, HTML5, CSS3, Vercel<br>
+**Role:** Developer
 </div>
 
 ---
@@ -97,13 +97,13 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 <img src="screenshots/traveltrucks camper rental-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
-🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
-🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 40px;">
+🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/<br>
+🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental<br><br>
 
-Camper rental platform with advanced filtering, favorite system, and modern responsive design.  
-**Tech:** React.js, React Router, Styled Components, REST API, Vercel  
-**Role:** Front-End Developer  
+Camper rental platform with advanced filtering, favorite system, and modern responsive design.<br>
+**Tech:** React.js, React Router, Styled Components, REST API, Vercel<br>
+**Role:** Front-End Developer
 </div>
 
 ---
@@ -114,16 +114,16 @@ Camper rental platform with advanced filtering, favorite system, and modern resp
 <img src="screenshots/harmonyq-2.png" width="45%" style="height: 180px; object-fit: contain; margin: 0 10px; border: 1px solid #ddd; border-radius: 8px; background: #f5f5f5;">
 </div>
 
-<div style="font-size: 16px; line-height: 1.6; margin-top: 30px;">
-🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
-🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
-🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
+<div style="font-size: 16px; line-height: 1.6; margin-top: 40px;">
+🔗 **Frontend**: https://mindflow-frontend.vercel.app/<br>
+🔗 **Backend**: https://github.com/Suianina/mindflow-backend<br>
+🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend<br><br>
 
-A full-stack social network for mental well-being with authentication, content creation, photo uploads, and responsive design.  
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, REST API  
-**Role:** Full-Stack Developer  
-Backend: auth & Swagger docs  
-Frontend: RegisterPage & RegisterForm  
+A full-stack social network for mental well-being with authentication, content creation, photo uploads, and responsive design.<br>
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, REST API<br>
+**Role:** Full-Stack Developer<br>
+Backend: auth & Swagger docs<br>
+Frontend: RegisterPage & RegisterForm
 </div>
 ---
 
@@ -162,8 +162,8 @@ Frontend: RegisterPage & RegisterForm
 
 ## GitHub Stats
 
-![Zhanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=red&hide_border=true&icon_color=red&text_color=333&title_color=red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true&theme=red&title_color=red)
+![Zhanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true)
 ---
 
 <div align="center">
