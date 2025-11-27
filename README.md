@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm <strong>Zhanna</strong>  
+# 👋 Hi, I'm <strong>Zhanna!</strong>  
 ### 💜 Front-End Developer
 
 Crafting responsive, accessible and high-quality web applications  
@@ -19,10 +19,10 @@ with clean architecture and a user-first mindset.
 - 💜 I enjoy building interfaces that feel intuitive, smooth and meaningful
 
 ---
-<div align="center">
+
 
 ## 🧰 My Stack and Tools
-
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -41,15 +41,19 @@ with clean architecture and a user-first mindset.
       <img src="SVG/04-typescript.svg" width="50" alt="TypeScript"/><br>
       TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="SVG/06-react.svg" width="50" alt="React"/><br>
       React.js
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="SVG/08-nodejs.svg" width="50" alt="Node.js"/><br>
       Node.js
+    </td>
+    <td align="center">
+      <img src="SVG/10-sass.svg" width="50" alt="Sass"/><br>
+      Sass
     </td>
     <td align="center">
       <img src="SVG/13-redux.svg" width="50" alt="Redux"/><br>
@@ -59,15 +63,12 @@ with clean architecture and a user-first mindset.
       <img src="SVG/15-postman.svg" width="50" alt="Postman"/><br>
       Postman
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="SVG/16-mongodb.svg" width="50" alt="MongoDB"/><br>
       MongoDB
     </td>
   </tr>
 </table>
-
 </div>
 ---
 
