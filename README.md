@@ -45,9 +45,7 @@ with clean architecture and a user-first mindset.
       <img src="svg/06-react.svg" width="50" alt="React"/><br>
       React.js
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+   <td align="center">
       <img src="svg/08-nodejs.svg" width="50" alt="Node.js"/><br>
       Node.js
     </td>
