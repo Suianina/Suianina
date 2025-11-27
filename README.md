@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/github.gif" width="80">
+<img src="assets/github.gif" width="100">
 
 # Hey there, I'm <strong>Zhanna!</strong> 👋
-
-### Front-End Developer
 
 Crafting responsive, accessible and high-quality web applications  
 with clean architecture and a user-first mindset.
@@ -82,6 +80,8 @@ with clean architecture and a user-first mindset.
 </div>
 
 <div style="font-size: 16px; line-height: 1.6;">
+
+  
 🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
 🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
 
@@ -100,6 +100,8 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 </div>
 
 <div style="font-size: 16px; line-height: 1.6;">
+
+  
 🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
 🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
 
@@ -117,6 +119,8 @@ Camper rental platform with advanced filtering, favorite system, and modern resp
 </div>
 
 <div style="font-size: 16px; line-height: 1.6;">
+
+  
 🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
 🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
 🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
@@ -142,14 +146,16 @@ Frontend: RegisterPage & RegisterForm
 </div>
 
 <div style="font-size: 16px; line-height: 1.6;">
+  
 [View Certificate](https://drive.google.com/file/d/1fWSUTchdHMetLdaewMUyK2caAvG9cXBR/view?usp=sharing)
 </div>
+
 ---
 
 ## Languages
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-red?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-red?style=flat-square)
 
 ---
 
