@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Animated](assets/github.gif)
+<img src="assets/github.gif" width="300">
 
 # 👋 Hi, I'm <strong>Zhanna!</strong>  
 ### Front-End Developer
