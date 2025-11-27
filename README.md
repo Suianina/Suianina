@@ -62,7 +62,7 @@ with clean architecture and a user-first mindset.
       Postman
     </td>
     <td align="center">
-      <img src="svg/16-monogodb.svg" width="50" alt="MongoDB"/><br>
+      <img src="svg/16-mongodb.svg" width="50" alt="MongoDB"/><br>
       MongoDB
     </td>
   </tr>
