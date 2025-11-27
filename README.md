@@ -24,13 +24,53 @@ with clean architecture and a user-first mindset.
 ## 🧰 Tech Stack
 
 **Frontend:**  
-HTML5 • CSS3 • SASS • JavaScript (ES6+) • TypeScript • React.js • Redux Toolkit • React Router DOM • Axios • Formik + Yup • CSS Modules  
+HTML5 • CSS3 • SASS • JavaScript (ES6+) • TypeScript • React.js • Redux Toolkit • React Router DOM • Axios • Formik + Yup • CSS Modules
+## 🎨 Frontend
+
+<table>
+  <tr>
+    <td><img src="SVG/HTML5.svg" width="50"/><br>HTML5</td>
+    <td><img src="SVG/CSS3.svg" width="50"/><br>CSS3</td>
+    <td><img src="SVG/SASS.svg" width="50"/><br>SASS</td>
+    <td><img src="SVG/JavaScript.svg" width="50"/><br>JavaScript</td>
+    <td><img src="SVG/TypeScript.svg" width="50"/><br>TypeScript</td>
+  </tr>
+  <tr>
+    <td><img src="SVG/React.svg" width="50"/><br>React.js</td>
+    <td><img src="SVG/Redux.svg" width="50"/><br>Redux Toolkit</td>
+    <td><img src="SVG/Router.svg" width="50"/><br>React Router</td>
+    <td><img src="SVG/Axios.svg" width="50"/><br>Axios</td>
+    <td><img src="SVG/Formik.svg" width="50"/><br>Formik + Yup</td>
+  </tr>
+  <tr>
+    <td><img src="SVG/CSSModules.svg" width="50"/><br>CSS Modules</td>
+  </tr>
+</table>
 
 **Backend:**  
-Node.js • Express • MongoDB • REST API • Swagger  
+Node.js • Express • MongoDB • REST API • Swagger 
+<table>
+  <tr>
+    <td><img src="SVG/NodeJS.svg" width="50"/><br>Node.js</td>
+    <td><img src="SVG/Express.svg" width="50"/><br>Express</td>
+    <td><img src="SVG/MongoDB.svg" width="50"/><br>MongoDB</td>
+    <td><img src="SVG/REST.svg" width="50"/><br>REST API</td>
+    <td><img src="SVG/Swagger.svg" width="50"/><br>Swagger</td>
+  </tr>
+</table>
 
 **Tools & Practices:**  
 Git • GitHub • Vite • Webpack • Agile • Scrum  
+<table>
+  <tr>
+    <td><img src="SVG/Git.svg" width="50"/><br>Git</td>
+    <td><img src="SVG/GitHub.svg" width="50"/><br>GitHub</td>
+    <td><img src="SVG/Vite.svg" width="50"/><br>Vite</td>
+    <td><img src="SVG/Webpack.svg" width="50"/><br>Webpack</td>
+    <td><img src="SVG/Agile.svg" width="50"/><br>Agile</td>
+    <td><img src="SVG/Scrum.svg" width="50"/><br>Scrum</td>
+  </tr>
+</table>
 
 ---
 
