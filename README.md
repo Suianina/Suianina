@@ -102,7 +102,7 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental<br><br>
 
 Camper rental platform with advanced filtering, favorite system, and modern responsive design.<br>
-**Tech:** React.js, React Router, Styled Components, REST API, Vercel<br>
+**Tech:** React.js, React Router, REST API,  Axios, CSS3, CSS Modules, Vercel<br>
 **Role:** Front-End Developer
 </div>
 
@@ -120,7 +120,7 @@ Camper rental platform with advanced filtering, favorite system, and modern resp
 🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend<br><br>
 
 A full-stack social network for mental well-being with authentication, content creation, photo uploads, and responsive design.<br>
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, REST API<br>
+**Tech:** HTML5, CSS3, JavaScript (ES6+), React, Redux Toolkit, React Router DOM, Formik + Yup, CSS Modules, Node.js, Express, MongoDB, Mongoose, REST API, Swagger, JWT Authentication, Vercel<br>
 **Role:** Full-Stack Developer<br>
 Backend: auth & Swagger docs<br>
 Frontend: RegisterPage & RegisterForm
