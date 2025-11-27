@@ -2,7 +2,8 @@
 
 <img src="assets/github.gif" width="100">
 
-# 👋 Hi, I'm <strong>Zhanna!</strong>  
+# Hey there, I'm <strong>Zhanna!</strong> 👋
+
 ### Front-End Developer
 
 Crafting responsive, accessible and high-quality web applications  
