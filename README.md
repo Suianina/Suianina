@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm <strong>Zhanna!</strong>  
-### 💜 Front-End Developer
+### Front-End Developer
 
 Crafting responsive, accessible and high-quality web applications  
 with clean architecture and a user-first mindset.
@@ -10,71 +10,72 @@ with clean architecture and a user-first mindset.
 
 ---
 
-## ⚡ About Me
+## About Me
 
-- 🎯 Specializing in **React**, **TypeScript**, UI development  
-- 🔍 Focused on **clean code**, **scalability**, and modern best practices  
-- 🚀 Experienced with both **frontend** and **backend**  
-- 📚 Constant learner: improving TypeScript, testing & advanced React  
-- 💜 I enjoy building interfaces that feel intuitive, smooth and meaningful
+- Specializing in **React**, **TypeScript**, UI development  
+- Focused on **clean code**, **scalability**, and modern best practices  
+- Experienced with both **frontend** and **backend**  
+- Constant learner: improving TypeScript, testing & advanced React  
+- I enjoy building interfaces that feel intuitive, smooth and meaningful
 
 ---
 
 
-## 🧰 My Stack and Tools
+## My Stack and Tools
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="SVG/01-html5.svg" width="50" alt="HTML5"/><br>
+      <img src="svg/01-html5.svg" width="50" alt="HTML5"/><br>
       HTML5
     </td>
     <td align="center">
-      <img src="SVG/02-css3.svg" width="50" alt="CSS3"/><br>
+      <img src="svg/02-css3.svg" width="50" alt="CSS3"/><br>
       CSS3
     </td>
     <td align="center">
-      <img src="SVG/03-javascript.svg" width="50" alt="JavaScript"/><br>
+      <img src="svg/03-javascript.svg" width="50" alt="JavaScript"/><br>
       JavaScript
     </td>
     <td align="center">
-      <img src="SVG/04-typescript.svg" width="50" alt="TypeScript"/><br>
+      <img src="svg/04-typescript.svg" width="50" alt="TypeScript"/><br>
       TypeScript
     </td>
     <td align="center">
-      <img src="SVG/06-react.svg" width="50" alt="React"/><br>
+      <img src="svg/06-react.svg" width="50" alt="React"/><br>
       React.js
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="SVG/08-nodejs.svg" width="50" alt="Node.js"/><br>
+      <img src="svg/08-nodejs.svg" width="50" alt="Node.js"/><br>
       Node.js
     </td>
     <td align="center">
-      <img src="SVG/10-sass.svg" width="50" alt="Sass"/><br>
+      <img src="svg/10-sass.svg" width="50" alt="Sass"/><br>
       Sass
     </td>
     <td align="center">
-      <img src="SVG/13-redux.svg" width="50" alt="Redux"/><br>
+      <img src="svg/13-redux.svg" width="50" alt="Redux"/><br>
       Redux
     </td>
     <td align="center">
-      <img src="SVG/15-postman.svg" width="50" alt="Postman"/><br>
+      <img src="svg/15-postman.svg" width="50" alt="Postman"/><br>
       Postman
     </td>
     <td align="center">
-      <img src="SVG/16-mongodb.svg" width="50" alt="MongoDB"/><br>
+      <img src="svg/16-monogodb.svg" width="50" alt="MongoDB"/><br>
       MongoDB
     </td>
   </tr>
 </table>
 </div>
+
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🎬 **Movie Search**
+### **Movie Search**
 🔗 Live: https://goit-react-hw-05-rho-one-90.vercel.app  
 🔗 Code: https://github.com/Suianina/goit-react-hw-05  
 
@@ -85,7 +86,7 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 
 ---
 
-### 🌿 **HarmonyQ — Mental Well-being Social Network**  
+### **HarmonyQ — Mental Well-being Social Network**  
 🔗 Frontend: https://mindflow-frontend.vercel.app/  
 🔗 Backend: https://github.com/Suianina/mindflow-backend  
 🔗 Frontend Code: https://github.com/Suianina/mindflow-frontend  
@@ -99,14 +100,14 @@ Frontend: RegisterPage & RegisterForm
 
 ---
 
-## 🗣️ Languages
+## Languages
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/zhanna-suianina-0515b4353/)  
 [Telegram](https://t.me/Zhanna_suianina)  
@@ -114,7 +115,7 @@ Frontend: RegisterPage & RegisterForm
 
 ---
 
-## ⭐ GitHub Stats (optional)
+## GitHub Stats (optional)
 
 ![Zhanna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suianina&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suianina&layout=compact&hide_border=true)
@@ -126,7 +127,7 @@ Frontend: RegisterPage & RegisterForm
 
 <div align="center">
 
-✨ *Thank you for visiting my profile!*  
+*Thank you for visiting my profile!*  
 Let’s build something meaningful together.
 
 </div>
