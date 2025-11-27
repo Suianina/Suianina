@@ -75,7 +75,11 @@ with clean architecture and a user-first mindset.
 ## Featured Projects
 
 ### **Movie Search**
-![Movie Search Screenshot](screenshots/movie-search.png)
+<div align="center">
+<img src="screenshots/movie search-1.png" width="45%" style="margin: 0 10px;">
+<img src="screenshots/movie search-2.png" width="45%" style="margin: 0 10px;">
+</div>
+
 🔗 **Live**: https://goit-react-hw-05-rho-one-90.vercel.app  
 🔗 **Code**: https://github.com/Suianina/goit-react-hw-05  
 
@@ -87,7 +91,11 @@ Features dynamic routing, lazy loading, cast & reviews pages, asynchronous reque
 ---
 
 ### **Traveltrucks Camper Rental**
-![Traveltrucks Screenshot](screenshots/traveltrucks.png)
+<div align="center">
+<img src="screenshots/traveltrucks camper rental-1.png" width="45%" style="margin: 0 10px;">
+<img src="screenshots/traveltrucks camper rental-2.png" width="45%" style="margin: 0 10px;">
+</div>
+
 🔗 **Live**: https://traveltrucks-camper-rental.vercel.app/  
 🔗 **Code**: https://github.com/Suianina/traveltrucks-camper-rental  
 
@@ -97,8 +105,12 @@ Camper rental platform with advanced filtering, favorite system, and modern resp
 
 ---
 
-### **HarmonyQ — Mental Well-being Social Network**  
-![HarmonyQ Screenshot](screenshots/harmonyq.png)
+### **HarmonyQ — Mental Well-being Social Network**
+<div align="center">
+<img src="screenshots/harmonyq-1.png" width="45%" style="margin: 0 10px;">
+<img src="screenshots/harmonyq-2.png" width="45%" style="margin: 0 10px;">
+</div>
+
 🔗 **Frontend**: https://mindflow-frontend.vercel.app/  
 🔗 **Backend**: https://github.com/Suianina/mindflow-backend  
 🔗 **Frontend Code**: https://github.com/Suianina/mindflow-frontend  
@@ -116,7 +128,12 @@ Frontend: RegisterPage & RegisterForm
 ### FullStack Developer Certificate
 **GoIT School** • 07/08/2025
 
-![FullStack Developer Certificate](screenshots/certificate.png)
+<div align="center">
+<img src="screenshots/screenshotscertificate-1.png" width="30%" style="margin: 0 5px;">
+<img src="screenshots/screenshotscertificate-2.png" width="30%" style="margin: 0 5px;">
+<img src="screenshots/screenshotscertificate-3.png" width="30%" style="margin: 0 5px;">
+</div>
+
 [View Certificate](https://drive.google.com/file/d/1fWSUTchdHMetLdaewMUyK2caAvG9cXBR/view?usp=sharing)
 
 ---
