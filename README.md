@@ -50,10 +50,6 @@ with clean architecture and a user-first mindset.
       Node.js
     </td>
     <td align="center">
-      <img src="svg/10-sass.svg" width="50" alt="Sass"/><br>
-      Sass
-    </td>
-    <td align="center">
       <img src="svg/13-redux.svg" width="50" alt="Redux"/><br>
       Redux
     </td>
